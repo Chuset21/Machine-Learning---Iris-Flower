@@ -1,5 +1,5 @@
-# Machine Learning Iris  
-Machine Learning Iris.  
+# Machine Learning - Iris Flower  
+My introduction to machine learning.  
 
 
 ## Dependencies
